@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :tags
+  resources :guides
   resources :test_twos
   resources :test_scaffolds
   resources :categories
