@@ -1,0 +1,2 @@
+class TestScaffold < ApplicationRecord
+end
